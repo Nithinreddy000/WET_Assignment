@@ -1,0 +1,67 @@
+.HH{
+    padding-left: 150px;
+    text-decoration: none;
+}
+.name{
+    padding-bottom: 20px;
+}
+.y{
+    padding-bottom: 20px;
+}
+.dob{
+    padding-bottom: 20px;
+}
+.lan{
+    padding-bottom: 20px;
+}
+.add{
+    padding-bottom: 20px;
+}
+.j{
+    padding-left: 67px;
+}
+.userid1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 20px;
+    font-size: larger;
+}
+.userid2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 20px;
+    font-size: larger;
+}
+.userid3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: larger;
+}
+.user{
+    padding-top: 150px;
+    padding-right: 300px;
+    display: flex;
+    flex-direction: column;   
+}
+.yy{
+    padding-bottom: 30px;
+    font-size: larger;
+}
+.o{
+    padding-bottom: 20px;
+    font-size: larger;
+}
+.qw{
+    padding-bottom: 20px;
+    font-size: larger;
+}
+.as{
+    text-decoration: none;
+}
+.sd{
+    height: 472px !important;
+    width: 679px !important;
+}
